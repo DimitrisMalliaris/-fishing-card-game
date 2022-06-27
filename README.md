@@ -9,3 +9,5 @@ A simple card game based on fishing card games like Basra and Cassino.
 - You can also Collect all cards with a Jack.
 
 ![image](https://user-images.githubusercontent.com/73944749/175959465-833195b3-67b4-42d7-a51e-e6896a109b6c.png)
+
+![image](https://user-images.githubusercontent.com/73944749/175960010-5a4a3d41-ee94-4e76-926a-5a50ae2648b2.png)
