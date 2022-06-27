@@ -1,7 +1,7 @@
 # Fishing card game
 A simple card game based on fishing card games like Basra and Cassino.
 
-# Rules:
+## Rules:
 - Every round each player is given 6 cards from the deck. 
 - Only on the first round 4 cards are placed on the table.
 - Play a card of the same number as the one on the table to Collect all cards. 
